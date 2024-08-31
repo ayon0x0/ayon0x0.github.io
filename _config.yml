@@ -12,10 +12,10 @@ description: Ayon Hasan - Independent Cyber Security Researcher
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ayon0x0.github.io" # the base hostname & protocol for your site
 usernames:
-  twitter: 
-  github:  s0md3v
-  linkedin: s0md3v
-  instagram: lollipopl337
+  twitter: ayon0x0
+  github:  ayon0x0
+  linkedin: ayon0x0
+  instagram: ayon0x0
 
 permalink: pretty
 

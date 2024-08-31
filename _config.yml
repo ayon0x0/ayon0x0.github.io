@@ -6,16 +6,16 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Somdev Sangwan - blog
-email: s0md3v@gmail.com
-description: Somdev Sangwan - Security & Automatation Researcher
+title: Ayon Hasan - blog
+email: ayonhasan133l@gmail.com
+description: Ayon Hasan - Independent Cyber Security Researcher
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://s0md3v.github.io" # the base hostname & protocol for your site
+url: "https://ayon0x0.github.io" # the base hostname & protocol for your site
 usernames:
-  twitter: s0md3v
+  twitter: 
   github:  s0md3v
   linkedin: s0md3v
-  instagram: s0md3v
+  instagram: lollipopl337
 
 permalink: pretty
 
